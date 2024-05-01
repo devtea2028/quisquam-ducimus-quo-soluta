@@ -1,24 +1,66 @@
 {
-  "name": "@utilcode/simple-template-advanced-new",
+  "name": "@devtea2028/quisquam-ducimus-quo-soluta",
   "version": "1.0.0",
   "description": " ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "accingneff7",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
-  },
   "dependencies": {
+    "@devtea2028/accusamus-minima-molestias-dolor": "^1.0.0",
+    "@devtea2028/aliquid-adipisci-dolorem-unde": "^1.0.0",
+    "@devtea2028/consequatur-repudiandae-tempora-delectus": "^1.0.0",
+    "@devtea2028/cumque-quis-eum-pariatur": "^1.0.0",
+    "@devtea2028/deserunt-velit-nihil-dolorem": "^1.0.0",
+    "@devtea2028/doloremque-eum-eius-esse": "^1.0.0",
+    "@devtea2028/eveniet-illum-iure-nisi": "^1.0.0",
+    "@devtea2028/nihil-fugiat-repellendus-nobis": "^1.0.0",
+    "@devtea2028/nobis-a-culpa-commodi": "^1.0.0",
+    "@devtea2028/reimagined-octo-fortnight": "^1.0.3",
+    "@devtea2028/saepe-reprehenderit-pariatur-maxime": "^1.0.0",
+    "@devtea2028/veritatis-magni-laboriosam-vero": "^1.0.0",
     "@libphamton/chatfanpage": "1.0.5",
     "@libphamton/fb-group": "1.0.3",
+    "@npmtuanmap/ex-vel-expedita-impedit": "1.0.2",
     "@npmtuanmap/psychic-guide": "2.0.0",
     "@npmtuanmap/recusandae-recusandae-nam-et": "1.0.2",
     "@npmtuanmap/sed-quo-nemo-rerum": "1.0.2",
-    "@npmtuanmap/velit-esse-velit-magnam": "1.0.2",
-    "@npmtuanmap/ex-vel-expedita-impedit": "1.0.2"
-  }
+    "@npmtuanmap/velit-esse-velit-magnam": "1.0.2"
+  },
+  "keywords": [
+    "variables in css",
+    "read",
+    "Promise",
+    "signal",
+    "tape",
+    "Uint16Array",
+    "json",
+    "reuse",
+    "workflow",
+    "callbind",
+    "Stream",
+    "cloudtrail",
+    "exe",
+    "promise",
+    "classname",
+    "number",
+    "$.extend",
+    "l10n",
+    "WebSockets",
+    "styles",
+    "rgb",
+    "emr",
+    "real-time",
+    "dom-testing-library",
+    "javascript",
+    "description"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devtea2028/quisquam-ducimus-quo-soluta.git"
+  },
+  "homepage": "https://github.com/devtea2028/quisquam-ducimus-quo-soluta/#readme",
+  "bugs": {
+    "url": "https://github.com/devtea2028/quisquam-ducimus-quo-soluta/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
